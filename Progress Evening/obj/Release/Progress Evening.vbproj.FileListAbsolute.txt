@@ -1,0 +1,12 @@
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Release\Progress_Evening.frmParent.resources
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Release\Progress_Evening.frmChild.resources
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Release\Progress_Evening.Resources.resources
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Release\Progress Evening.vbproj.GenerateResource.Cache
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\bin\Release\Progress Evening.exe
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\bin\Release\Progress Evening.pdb
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\bin\Release\Progress Evening.xml
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Release\Progress_Evening.frmHome.resources
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Release\Progress Evening.exe
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Release\Progress Evening.xml
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Release\Progress Evening.pdb

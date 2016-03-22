@@ -1,0 +1,16 @@
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Debug\Progress_Evening.Resources.resources
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Debug\Progress Evening.vbproj.GenerateResource.Cache
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\bin\Debug\Progress Evening.exe
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\bin\Debug\Progress Evening.pdb
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\bin\Debug\Progress Evening.xml
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Debug\Progress Evening.exe
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Debug\Progress Evening.xml
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Debug\Progress Evening.pdb
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Debug\Progress_Evening.frmAdmin.resources
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Debug\Progress_Evening.frmSchedule.resources
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Debug\Progress_Evening.frmAddParent.resources
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Debug\Progress Evening.vbprojResolveAssemblyReference.cache
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Debug\Progress_Evening.frmAddTeacher.resources
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Debug\Progress_Evening.frmHome.resources
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Debug\Progress_Evening.frmLogin.resources
+C:\Users\Jian\Documents\Visual Studio 2008\Projects\Progress Evening\Progress Evening\obj\Debug\Progress_Evening.frmAddChild.resources
